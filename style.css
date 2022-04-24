@@ -47,6 +47,7 @@ img {
   padding: 1.75rem;
   margin-bottom: 1rem;
   border-radius: 5px;
+  box-shadow: 1px 1px 10px 1px rgba(128, 128, 128 ,.1);
 }
 .names h4 {
   font-size: 0.875rem;
